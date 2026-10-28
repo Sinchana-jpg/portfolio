@@ -41,5 +41,5 @@ Here are the core technologies I used to build this project:
 portfolio/
 ├── index.html   # The main HTML structure
 ├── style.css    # Custom styling and layouts
-├── script.js   # Interactive components & behavior
+├── script.js   # Interactive components & behavior etc
 └── profile.jpg  # Profile picture / assets
