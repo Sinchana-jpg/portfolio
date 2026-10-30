@@ -43,3 +43,6 @@ portfolio/
 ├── style.css    # Custom styling and layouts
 ├── script.js   # Interactive components & behavior etc
 └── profile.jpg  # Profile picture / assets
+
+```
+hi 
