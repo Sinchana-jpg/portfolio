@@ -45,4 +45,4 @@ portfolio/
 └── profile.jpg  # Profile picture / assets
 
 ```
-hi 
+hi buddy
