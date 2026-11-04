@@ -45,5 +45,5 @@ portfolio/
 └── profile.jpg  # Profile picture / assets
 
 ```
-hi sisterrrrrorrr
+hi -----
 
